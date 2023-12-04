@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kmj-dc-pj/static/css/main.7fdac90e.css",
+    "main.js": "/kmj-dc-pj/static/js/main.b0952542.js",
+    "static/media/Ubuntu-Regular.woff2": "/kmj-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
+    "static/media/UbuntuCondensed-Regular.woff2": "/kmj-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
+    "index.html": "/kmj-dc-pj/index.html",
+    "main.7fdac90e.css.map": "/kmj-dc-pj/static/css/main.7fdac90e.css.map",
+    "main.b0952542.js.map": "/kmj-dc-pj/static/js/main.b0952542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdac90e.css",
+    "static/js/main.b0952542.js"
+  ]
+}
